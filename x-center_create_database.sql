@@ -1,0 +1,3 @@
+DROP DATABASE IF EXISTS x_center;
+
+CREATE DATABASE x_center;
